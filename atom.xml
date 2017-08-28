@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>dudu</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T09:20:43.824Z</updated>
+  <updated>2017-08-28T09:44:20.578Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>duqingjiao</name>
     
   </author>
   
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/28/text/"/>
     <id>http://yoursite.com/2017/08/28/text/</id>
     <published>2017-08-28T09:20:43.000Z</published>
-    <updated>2017-08-28T09:20:43.824Z</updated>
+    <updated>2017-08-28T09:44:20.578Z</updated>
     
     <summary type="html">
     
